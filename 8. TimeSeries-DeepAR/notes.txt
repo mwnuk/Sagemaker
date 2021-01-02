@@ -1,0 +1,29 @@
+AWS Examples:
+    Synthetic data:
+	https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html
+    Electricity Forecast:
+	https://github.com/aws/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/deepar_electricity/DeepAR-Electricity.ipynb
+
+1. Always use entire time series for training, testing and inference
+2. Use entire dataset as test set, remove lat time points for training, evaluate on withheld values
+3. don't use very large values for prediction length >400
+4. train on many timeseries and not just one when possible
+
+hyperparameters
+- Freq
+- Context length- number of steps it sees before making prediction
+- Epochs
+- mini batch
+- learning rate
+- num_cells  - neurons
+- num_layers
+- likelihood 
+- dropout_rate
+- early_stopping
+   can use CPU or GPU
+
+overvew: - https://www.youtube.com/watch?v=g8UYGh0tlK0
+               -github/SunilMallya/timeseries 
+
+Quotes from:
+https://www.nasdaq.com/market-activity/quotes/historical
