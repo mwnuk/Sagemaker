@@ -1,0 +1,10 @@
+Job can be submitted to one or more queues.
+Schedurel is processing and dispatching jobs from multiple queues ( spot instances possible)
+Overview:
+-------------
+https://aws.amazon.com/blogs/aws/sagemaker-nysummit2018/
+
+From Console:
+--------------
+https://aws.amazon.com/blogs/aws/sagemaker-nysummit2018/
+
