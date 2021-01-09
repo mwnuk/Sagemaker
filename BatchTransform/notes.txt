@@ -8,3 +8,7 @@ From Console:
 --------------
 https://aws.amazon.com/blogs/aws/sagemaker-nysummit2018/
 
+Emiy Webber from AWS:
+https://www.youtube.com/watch?v=Z9FtrRq0rc0
+https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml
+
