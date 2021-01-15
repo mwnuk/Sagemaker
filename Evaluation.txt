@@ -1,0 +1,4 @@
+Good read:
+https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc
+
+
